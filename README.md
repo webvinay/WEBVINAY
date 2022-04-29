@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **say.edit@gmail.com**
+- 📫 How to reach me **say.vedit@gmail.com**
 
 - ⚡ Fun fact **I THINK I AM NOT SURE**
 
