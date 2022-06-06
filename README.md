@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **me**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **c++**
 
 - 📫 How to reach me **say.vedit@gmail.com**
 
