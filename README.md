@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/omaha-code/image/upload/t_Linkedin_official/v1561591009/city-4024886_1280.png)](https://rishavchanda.io
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io
 )
 
 <h1 align="center">Hi 👋, I'm VINAY</h1>
