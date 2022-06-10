@@ -14,12 +14,28 @@
 
 - ⚡ Fun fact **I THINK I AM NOT SURE**
 
+## 📊 My Github Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webvinay&show_icons=true&locale=en&layout=compact" alt="webvinay" /></p>
+<p align="center">
+    <a href="https://github.com/webvinay/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="webvinay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=webvinay&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webvinay&show_icons=true&locale=en" alt="webvinay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webvinay&" alt="webvinay" /></p>
+  <br/>
+    <a href="https://github.com/webvinay/github-readme-stats"><img alt="wevinay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webvinay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/webvinay/github-readme-stats"><img alt="webvinay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webvinay&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/webvinay/github-readme-activity-graph"><img alt="webvinay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=webvinay&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
