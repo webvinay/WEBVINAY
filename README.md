@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.pixlogix.com/wp-content/themes/pixlogix/images/html-css-js-logo.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webvinay&label=Profile%20views&color=0e75b6&style=flat" alt="webvinay" /> </p>
 
-- 🔭 I’m currently working on **me**
+- 🔭 I’m currently working on **myself**
 
 - 🌱 I’m currently learning **ui/ux**
 
