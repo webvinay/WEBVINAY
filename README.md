@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **say.vedit@gmail.com**
 
-- 💙 How to reach me **https://twitter.com/_VX_code_**
+- 💛 How to reach me **http://vxcode.bio.link**
 
 - ⚡ Fun fact **I THINK I AM NOT SURE**
 
