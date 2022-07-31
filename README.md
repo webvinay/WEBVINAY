@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **say.vedit@gmail.com**
 
+- 💙 How to reach me **https://twitter.com/_VX_code_**
+
 - ⚡ Fun fact **I THINK I AM NOT SURE**
 
 ## 📊 My Github Stats
