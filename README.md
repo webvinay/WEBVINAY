@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **ui/ux**
 
-- 📫 How to reach me **say.vedit@gmail.com**
-
-- 💛 How to reach me **http://vxcode.bio.link**
+- 📫 How to reach me **http://vxcode.bio.link**
 
 - ⚡ Fun fact **I THINK I AM NOT SURE**
 
